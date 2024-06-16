@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "mymx": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,6 @@
   "dependencies": {
     "@mymx-cli/utils": "^1.0.2",
     "npmlog": "^7.0.1"
-  }
+  },
+  "gitHead": "311c1bbaf64ad696cc033d1747159fd75f7d009c"
 }
