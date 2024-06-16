@@ -1,6 +1,6 @@
 {
   "name": "@mymx-cli/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "WangDi <1904890413@qq.com>",
   "homepage": "",
@@ -23,5 +23,5 @@
     "@mymx-cli/utils": "^1.0.3",
     "npmlog": "^7.0.1"
   },
-  "gitHead": "311c1bbaf64ad696cc033d1747159fd75f7d009c"
+  "gitHead": "b7c2654f54a7e9b402e35afff7bc5d293df0061a"
 }
