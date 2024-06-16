@@ -1,0 +1,14 @@
+31 error Error: Command failed: git add -- packages/utils/package.json packages/utils/package-lock.json packages/core/package.json packages/core/package-lock.json lerna.json
+31 error warning: in the working copy of 'lerna.json', LF will be replaced by CRLF the next time Git touches it
+31 error warning: in the working copy of 'packages/core/package.json', LF will be replaced by CRLF the next time Git touches it
+31 error warning: in the working copy of 'packages/utils/package.json', LF will be replaced by CRLF the next time Git touches it
+31 error The following paths are ignored by one of your .gitignore files:
+31 error packages/core/package-lock.json
+31 error packages/utils/package-lock.json
+31 error hint: Use -f if you really want to add them.
+31 error hint: Turn this message off by running
+31 error hint: "git config advice.addIgnoredFile false"
+31 error
+31 error     at makeError (E:\系统默认\mymx-cli\node_modules\execa\index.js:174:9)
+31 error     at E:\系统默认\mymx-cli\node_modules\execa\index.js:278:16
+31 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

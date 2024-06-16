@@ -1,6 +1,6 @@
 {
   "name": "@mymx-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "WangDi <1904890413@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mymx-cli/utils": "^1.0.0",
+    "@mymx-cli/utils": "^1.0.1",
     "npmlog": "^7.0.1"
   }
 }
