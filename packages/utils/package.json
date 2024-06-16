@@ -19,7 +19,7 @@
   "dependencies": {
     "npmlog": "^7.0.1"
   },
-  "gitHead": "1c60c326642f6a1a90ae659a19a026ac62d56027",
+  "gitHead": "bd954c802e72e88ca6f14712a7cb3f97305e5ff9",
   "publishConfig": {
     "access": "public"
   }
